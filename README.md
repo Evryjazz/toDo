@@ -1,5 +1,4 @@
 toDo
 ====
 
-Work toDo list backup
-Sublime > Plaintasks
+Work toDo list backup for Sublime > Plaintasks
